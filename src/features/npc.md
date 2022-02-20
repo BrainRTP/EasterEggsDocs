@@ -1,3 +1,0 @@
-# NPC
-No NPC support at this time.
-In development...
